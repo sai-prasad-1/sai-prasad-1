@@ -6,11 +6,9 @@ Skills: Python / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 
 # Blog posts
-<<<<<<< HEAD
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-=======
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
@@ -20,4 +18,4 @@ Skills: Python / REACT / JS / HTML / CSS
 <!-- BLOG-POST-LIST:END -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai-prasad-1)](https://github.com/sai-prasad-1/github-readme-stats)
