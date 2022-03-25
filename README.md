@@ -18,4 +18,4 @@ Skills: Python / REACT / JS / HTML / CSS
 <!-- BLOG-POST-LIST:END -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai-prasad-1&show_icons=true&theme=dark)](https://github.com/sai-prasad-1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai-prasad-1&show_icons=true&theme=merko)](https://github.com/sai-prasad-1/github-readme-stats)
