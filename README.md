@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Sai  from India, and I do Full stack Development. I really enjoy learning languages and frameworks like React and Fluter and technologies like Ai/Ml and also loves elctronics, as well as work in WordPress.
+I'm Sai  from India, and I do Full stack Development. I really enjoy learning languages and frameworks like React and Fluter and technologies like Ai/Ml and also loves elctronics
 
-Skills: Python / REACT / JS / HTML / CSS
+Skills: Python / REACT / JS / HTML / CSS / NodeJS
 
 - 🔭 I’m currently working on this page. 
 
