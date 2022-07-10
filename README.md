@@ -10,16 +10,13 @@
 ---
 # 📊 GitHub Stats:
 
+
 ![](https://github-readme-stats.vercel.app/api?username=sai-prasad-m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-prasad-m&theme=dark&hide_border=false" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-prasad-1&layout=compact" />
-</div>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=sai-prasad-m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sai-prasad-m&theme=dark&hide_border=false)<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-prasad-1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</center> -->
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sai-prasad-m&icon=1&color=2)](https://visitcount.itsvg.in)
