@@ -10,10 +10,10 @@ const saiprasad: SaiPrasad = {
     technologies: {
         backEnd: {
             languages: ['JavaScript (Node.js)', 'Python', 'Java', 'PHP', 'Golang'],
-            frameworks: ['Express', 'Fastify', 'Laravel'],
+            frameworks: ['NextJs','Express', 'Fastify', 'Laravel',],
             databases: ['MongoDB', 'MySQL', 'SQLite'],
             devOps: {
-                tools: ['AWS', 'Docker🐳', 'Route53', 'Nginx','Digital Ocean','IBM','Azure'],
+                tools: ['AWS', 'Docker🐳', 'PostgreSQL', 'Nginx','Digital Ocean','IBM','Azure'],
                 practices: ['Serverless Architecture', 'Continuous Integration and Deployment (CI/CD)'],
             },
         },
@@ -22,7 +22,6 @@ const saiprasad: SaiPrasad = {
         },
         miscellaneous: ['Firebase', 'Socket.IO', 'Selenium', 'OpenCV', 'PHP', 'SuiteApp'],
     },
-    architecture: ['Serverless Architecture', 'Progressive Web Applications', 'Single Page Applications'],
     currentFocus: 'Exploring new DevOps tools and practices',
     sayHi: function () {
         console.log(`Hi there! I'm ${this.name}, a software enthusiast with a passion for Full Stack development and DevOps.`);
@@ -30,36 +29,10 @@ const saiprasad: SaiPrasad = {
     funFact: 'There are two ways to write error-free programs; only the third one works',
 };
 
-// Call the sayHi function to greet visitors
 saiprasad.sayHi();
 
 console.log(saiprasad);
 
-interface SaiPrasad {
-    name: string;
-    pronouns: 'He' | 'Him';
-    code: string[];
-    askMeAbout: string[];
-    technologies: {
-        backEnd: {
-            languages: string[];
-            frameworks: string[];
-            databases: string[];
-            devOps: {
-                tools: string[];
-                practices: string[];
-            };
-        };
-        mobileApp: {
-            native: string[];
-        };
-        miscellaneous: string[];
-    };
-    architecture: string[];
-    currentFocus: string;
-    sayHi: () => void;
-    funFact: string;
-}
 ```
 
 # 📊 GitHub Stats:
