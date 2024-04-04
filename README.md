@@ -17,10 +17,6 @@ const saiprasad: SaiPrasad = {
                 practices: ['Serverless Architecture', 'Continuous Integration and Deployment (CI/CD)'],
             },
         },
-        mobileApp: {
-            native: ['Android Development'],
-        },
-        miscellaneous: ['Firebase', 'Socket.IO', 'Selenium', 'OpenCV', 'PHP', 'SuiteApp'],
     },
     currentFocus: 'Exploring new DevOps tools and practices',
     sayHi: function () {
